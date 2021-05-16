@@ -15,6 +15,6 @@ Main Results:
 * The number of shooting incidents per day follows an exponential decayed distribution.
 * The number of shootings follows a similar distribution for each and every year (over months) with them reaching a peak in the summer months of July and/or August.
 * Current data allows us only to accurtely classify non-fatality or fatality (but not both). The presence of seemingly useful variables such as the type of gun used, wounded area, and motive might have helped. 
-* Carboon Monoxide, Nitrogen Dioxide, (log) Sulfur Dioxide, and max temprature all have an effect on the number of shooting indicents! Ozone and preciptation have not been found to have a statistically significant relationship with the number of shotting incidents as some studies had suggested. 
+* Carboon Monoxide, Nitrogen Dioxide, (log) Sulfur Dioxide, and max temprature all have an effect on the number of shooting indicents! Ozone and preciptation have not been found to have a statistically significant relationship with the number of shotting incidents contrary to what some studies had suggested. 
 
 For more detalis: Please refer to https://drive.google.com/file/d/1_gBMfAFl5Z7g7EkJriSqjc32K-Ar6Nxm/view?usp=sharing
