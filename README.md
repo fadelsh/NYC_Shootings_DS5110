@@ -1,11 +1,6 @@
 # NYC_Shootings_DS5110
 Analysis of shooting data in New York City between 2006 - 2019. Analysis done in R.
 
-
-Term project done for DS 5110 - Introduction to Data Management and Processing. Spring 2021 @ Northeastern University.
-Project members: Sushant Jha, Fadel Alshammasi, and Hendrik (Jake) Ombach
-
-
 Main Goals: 
 * Finding if there are any interesting patterns in the data through data visualization and Exploratry Data Analysis.
 * Answering whether it is possible to accurtely classify if a shotting is fatal. 
